@@ -1,6 +1,6 @@
 ## Carousel Editor
 
-Live demo: https:
+Live demo: https: https://guindofranco.github.io/carousel-editor-react/
 
 ### Setup Steps
 `npm install`
